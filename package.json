@@ -1,0 +1,33 @@
+{
+  "name": "@thvx/monoscript",
+  "version": "1.0.3",
+  "description": "The OOP framework for JavaScript and TypeScript.",
+  "main": "dist\\monoscript.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THVX/monoscript.git"
+  },
+  "keywords": [
+    "OOP",
+    "framework",
+    "box"
+  ],
+  "author": "THVX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/THVX/monoscript/issues"
+  },
+  "homepage": "https://github.com/THVX/monoscript#readme",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "jquery": "^3.6.0",
+    "typescript": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14",
+    "tsup": "^5.12.1"
+  }
+}
