@@ -22,4 +22,6 @@ MyFirstBox.println("Hello World !"); // Outputs: Hello World !
 ````
 
 ####  NOTE: $ is an alias for MonoScript.
+
+## NOTE: To use MonoScript with JavaScript, use Mono.js instead.
 # Start coding happily !
